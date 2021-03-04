@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ScalaProjectLocal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ScalaProjectLocal_jar</output-path>
+    <root id="archive" name="ScalaProjectLocal.jar">
+      <element id="module-output" name="ScalaProjectLocal" />
+      <element id="extracted-dir" path="D:/ProgramFiles/scala-2.12.10/lib/scala-library.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/ProgramFiles/scala-2.12.10/lib/scala-parser-combinators_2.12-1.0.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/ProgramFiles/scala-2.12.10/lib/scala-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/ProgramFiles/scala-2.12.10/lib/scala-swing_2.12-2.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/ProgramFiles/scala-2.12.10/lib/scala-xml_2.12-1.0.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
